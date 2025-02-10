@@ -1,0 +1,17 @@
+C:\Users\Eduardo\Documents\Interpreter\obj\Debug\net8.0\Interpreter.csproj.AssemblyReference.cache
+C:\Users\Eduardo\Documents\Interpreter\obj\Debug\net8.0\Interpreter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eduardo\Documents\Interpreter\obj\Debug\net8.0\Interpreter.AssemblyInfoInputs.cache
+C:\Users\Eduardo\Documents\Interpreter\obj\Debug\net8.0\Interpreter.AssemblyInfo.cs
+C:\Users\Eduardo\Documents\Interpreter\obj\Debug\net8.0\Interpreter.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\Documents\Interpreter\bin\Debug\net8.0\Interpreter.exe
+C:\Users\Eduardo\Documents\Interpreter\bin\Debug\net8.0\Interpreter.deps.json
+C:\Users\Eduardo\Documents\Interpreter\bin\Debug\net8.0\Interpreter.runtimeconfig.json
+C:\Users\Eduardo\Documents\Interpreter\bin\Debug\net8.0\Interpreter.dll
+C:\Users\Eduardo\Documents\Interpreter\bin\Debug\net8.0\Interpreter.pdb
+C:\Users\Eduardo\Documents\Interpreter\bin\Debug\net8.0\Antlr4.Runtime.Standard.dll
+C:\Users\Eduardo\Documents\Interpreter\obj\Debug\net8.0\Interpre.3FB56443.Up2Date
+C:\Users\Eduardo\Documents\Interpreter\obj\Debug\net8.0\Interpreter.dll
+C:\Users\Eduardo\Documents\Interpreter\obj\Debug\net8.0\refint\Interpreter.dll
+C:\Users\Eduardo\Documents\Interpreter\obj\Debug\net8.0\Interpreter.pdb
+C:\Users\Eduardo\Documents\Interpreter\obj\Debug\net8.0\Interpreter.genruntimeconfig.cache
+C:\Users\Eduardo\Documents\Interpreter\obj\Debug\net8.0\ref\Interpreter.dll
