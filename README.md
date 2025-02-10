@@ -14,7 +14,7 @@ Funções (com/sem declaração);
 Estructs e Unions;
 Diretivas de compilação e comentários.
 
-**2. Program**
+**2. Programa**
 
 Após a criação da nossa gramática, executamos o comando "java -jar antlr-4.13.2-complete.jar  -Dlanguage=CSharp -o Grammar -listener -visitor -package Grammar Language.g4", que gera os arquivos do Antlr4 na pasta Grammar através do arquivo Language.g4, onde podemos prosseguir com as implementações do projeto.
 
