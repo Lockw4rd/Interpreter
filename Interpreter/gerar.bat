@@ -1,1 +1,0 @@
- java -jar antlr-4.13.2-complete.jar  -Dlanguage=CSharp -o Grammar -listener -visitor -package Grammar Language.g4
